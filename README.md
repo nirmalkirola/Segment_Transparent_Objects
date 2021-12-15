@@ -1,9 +1,14 @@
 # Segment_Transparent_Objects
+
+## Introduction
+
 Identify transparent objects in an image.
 
-This notebook is the implementation of the work done by [xieenze | Segment_Transparent_Objects](https://github.com/xieenze/Segment_Transparent_Objects)
+This repository is the implementation of the work done by [xieenze | Segment_Transparent_Objects](https://github.com/xieenze/Segment_Transparent_Objects).
 
-The link to the blog is : [Segmenting Transparent Objects in the Wild](https://xieenze.github.io/projects/TransLAB/TransLAB.html)
+The original ECCV2020 paper behind this project [Segmenting Transparent Objects in the Wild](https://arxiv.org/abs/2003.13948).
+
+The link to the blog is [Segmenting Transparent Objects in the Wild](https://xieenze.github.io/projects/TransLAB/TransLAB.html).
 
 There are some modifications to the original work:
    - The original code is executed through CLI. In this project, the code is modified so that it could run after importing the python file.
