@@ -10,7 +10,7 @@ There are some modifications to the original work:
 
 
 
-   - The Original code was directory based, therefore too many files were there related to each other. In this project, all the code is packed into a single file named **pymasklib**. Only this file needs to be imported           in the notebook.
+   - The Original code was directory based, therefore too many files were there related to each other. In this project, all the code is packed into a single file named **pymasklib**. Only this file needs to be imported in the notebook.
    
    
    
@@ -35,6 +35,8 @@ pip install -r requirements.txt
 
 ### Pretrained Model
 Click on the link mentioned here to download the pre-trained model : [16.pth](https://drive.google.com/file/d/1moJ0B8ZhjN6679l3dwuxF0n2VKIoLBZt/view?usp=sharing)
+
+
 After dowmnloading, copy the model in the directory where all other files of the project are present.
 
 
