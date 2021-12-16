@@ -20,6 +20,7 @@ There are some modifications to the original work:
    
    
    - Previously, the images to be tested need to be stored in a directoryand output mask images were also stored in a directory. In this project, you can directly provide image urls and can see outputs in the notebook.
+   - The time taken to execute is reduced to 2.4 seconds(approx). Previously it was taking 8 seconds(approx).
 
 ## Environments
 
