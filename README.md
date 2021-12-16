@@ -25,7 +25,7 @@ There are some modifications to the original work:
 ## Environments
 
 - python 3
-- torch = 1.1.0 (>1.1.0 with cause performance drop, we can't find the reason)
+- torch
 - torchvision
 - pyyaml
 - Pillow
