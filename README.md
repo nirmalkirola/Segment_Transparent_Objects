@@ -43,7 +43,7 @@ pip install -r requirements.txt
 Click on the link mentioned here to download the pre-trained model : [16.pth](https://drive.google.com/file/d/1moJ0B8ZhjN6679l3dwuxF0n2VKIoLBZt/view?usp=sharing)
 
 
-After dowmnloading, copy the model in the directory where all other files of the project are present.
+After downloading, copy the model in the directory where all other files of the project are present.
 
 
 # License
